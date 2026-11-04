@@ -20,6 +20,8 @@ Portfólio da ideia que estou desenvolvendo para criação de sites e produtos d
 
 **Demonstração publicada.** Existe uma demonstração online, mas o código-fonte ainda não foi enviado para este repositório.
 
+A versão disponível hoje é o portfólio da iniciativa. A plataforma SaaS para criação automática de sites continua como uma ideia em desenvolvimento e não faz parte deste repositório.
+
 ## Linguagens
 
 Nenhuma linguagem detectada: só há documentação neste repositório.
