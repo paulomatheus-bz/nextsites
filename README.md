@@ -11,3 +11,6 @@ Este repositório documenta a iniciativa e sua apresentação online. A platafor
 ## Código e linguagens
 
 O código da página publicada ainda não foi organizado neste repositório. O GitHub não detecta linguagens de programação até que os arquivos da aplicação sejam adicionados.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
