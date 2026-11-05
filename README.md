@@ -1,21 +1,11 @@
 # NextSites
 
-Apresentação da NextSites e de trabalhos de sites e soluções digitais.
+Página de apresentação da NextSites e de alguns trabalhos de sites e soluções digitais.
 
 **Ver a página:** https://nextsites-portfolio.vercel.app
 
-## Sobre
+A demonstração mostra a iniciativa e os projetos publicados. A ideia de uma plataforma SaaS para criação automática de sites ainda está em desenvolvimento e não faz parte desta página.
 
-A demonstração apresenta a iniciativa e seus trabalhos. A ideia de uma plataforma SaaS para criação automática de sites continua em desenvolvimento e não faz parte desta página.
-
-## Estado do repositório
-
-O código da página publicada ainda não foi organizado neste repositório. O GitHub não detecta linguagens de programação até que os arquivos da aplicação sejam adicionados.
-
-## Evolução
-
-Ao iniciar a implementação do produto, separar a plataforma da página institucional e documentar neste espaço apenas o que realmente estiver disponível para executar ou testar.
-
----
+O código do site publicado ainda não foi organizado neste repositório. Quando a plataforma começar a ser implementada, ela terá documentação própria para não misturar o produto com o portfólio.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
