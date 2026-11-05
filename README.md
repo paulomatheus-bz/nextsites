@@ -17,4 +17,8 @@ A página mostra a iniciativa e projetos publicados. A plataforma SaaS para cria
 
 O código da página publicada não foi organizado neste repositório. Para a plataforma, a stack ainda será definida junto com o escopo do MVP. React e TypeScript são uma possibilidade, não uma implementação existente aqui.
 
+## Continuidade do projeto
+
+A apresentação e a ideia do SaaS são frentes diferentes. Para a página, vou manter os links dos trabalhos atualizados. Para o produto, o próximo passo é definir um MVP pequeno, testar com um cliente e documentar a stack quando a implementação começar.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
