@@ -1,11 +1,20 @@
 # NextSites
 
-Página de apresentação da NextSites e de alguns trabalhos de sites e soluções digitais.
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-**Ver a página:** https://nextsites-portfolio.vercel.app
+<p><sub>Tecnologias previstas para implementação.</sub></p>
+Criei esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
 
-A demonstração mostra a iniciativa e os projetos publicados. A ideia de uma plataforma SaaS para criação automática de sites ainda está em desenvolvimento e não faz parte desta página.
+**Acessar:** https://nextsites-portfolio.vercel.app
 
-O código do site publicado ainda não foi organizado neste repositório. Quando a plataforma começar a ser implementada, ela terá documentação própria para não misturar o produto com o portfólio.
+## Sobre a NextSites
+
+A página mostra a iniciativa e projetos publicados. A plataforma SaaS para criação automática de sites ainda está em planejamento; não faz parte desta demonstração nem deve ser apresentada como produto pronto.
+
+O código da página publicada não foi organizado neste repositório. Para a plataforma, a stack ainda será definida junto com o escopo do MVP. React e TypeScript são uma possibilidade, não uma implementação existente aqui.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
