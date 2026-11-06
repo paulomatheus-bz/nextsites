@@ -6,7 +6,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Criei esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
 
 **Acessar:** https://nextsites-portfolio.vercel.app
