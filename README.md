@@ -1,8 +1,4 @@
-<div align="center">
-
 # NextSites
-
-*Criei esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.*
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -10,7 +6,9 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-</div>
+> Criei esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Acessar:** https://nextsites-portfolio.vercel.app
