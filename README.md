@@ -6,7 +6,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> Criei esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
+> Desenvolvi esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
 
 ---
 
