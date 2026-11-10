@@ -6,14 +6,14 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> Página de apresentação da NextSites e de alguns trabalhos da equipe.
+> Página da NextSites com trabalhos publicados.
 
 ---
 
-**Acessar:** https://nextsites-portfolio.vercel.app
+**Página:** https://nextsites-portfolio.vercel.app
 
-A página apresenta a NextSites e reúne alguns trabalhos publicados. A ideia de uma plataforma SaaS para criação de sites está em planejamento e não faz parte desta demonstração.
+A apresentação reúne trabalhos da NextSites. A ideia de uma plataforma para criar sites automaticamente ainda está em planejamento e não faz parte desta página.
 
-O código da página ainda não foi adicionado aqui. React e TypeScript são possibilidades para uma próxima versão; a stack da plataforma será definida depois que o escopo do produto estiver fechado.
+O código do site não está neste repositório. React e TypeScript são possibilidades para uma próxima versão.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
