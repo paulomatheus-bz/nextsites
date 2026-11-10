@@ -6,21 +6,14 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-> Desenvolvi esta página para apresentar a NextSites e reunir alguns trabalhos de criação de sites e soluções digitais.
+> Página de apresentação da NextSites e de alguns trabalhos da equipe.
 
 ---
 
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 **Acessar:** https://nextsites-portfolio.vercel.app
 
-## Sobre a NextSites
+A página apresenta a NextSites e reúne alguns trabalhos publicados. A ideia de uma plataforma SaaS para criação de sites está em planejamento e não faz parte desta demonstração.
 
-A página mostra a iniciativa e projetos publicados. A plataforma SaaS para criação automática de sites ainda está em planejamento; não faz parte desta demonstração nem deve ser apresentada como produto pronto.
-
-O código da página publicada não foi organizado neste repositório. Para a plataforma, a stack ainda será definida junto com o escopo do MVP. React e TypeScript são uma possibilidade, não uma implementação existente aqui.
-
-## Página e produto
-
-A apresentação e a ideia do SaaS são frentes diferentes. Para a página, vou manter os links dos trabalhos atualizados. Para o produto, o próximo passo é definir um MVP pequeno, testar com um cliente e documentar a stack quando a implementação começar.
+O código da página ainda não foi adicionado aqui. React e TypeScript são possibilidades para uma próxima versão; a stack da plataforma será definida depois que o escopo do produto estiver fechado.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
