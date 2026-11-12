@@ -16,4 +16,9 @@ A apresentação reúne trabalhos da NextSites. A ideia de uma plataforma para c
 
 O código do site não está neste repositório. React e TypeScript são possibilidades para uma próxima versão.
 
+
+## Trabalhos e soluções digitais
+
+Portfólio da NextSites voltado à apresentação de projetos publicados, separado das ideias ainda em planejamento.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
